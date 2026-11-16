@@ -1,5 +1,14 @@
 <a href="https://github.com/BunhourLong"><img src="assets/hero.svg" width="100%" alt="សួស្តី (hello). Bunhour Long: full-stack developer learning AI engineering: building agent skills and testing local models."></a>
 
+<img src="assets/section-about.svg" width="100%" alt="About me">
+
+<img src="assets/card-about.svg" width="100%" alt="About Bunhour: CS student in Phnom Penh (AUPP + FHSU dual degree, DICHI Techpreneur full-stack track, about a year interning in the government sector). Path: HTML as a kid, cybersecurity in grade 9, full-stack web and mobile now, AI engineering next. AI is part of how I develop; I&#x27;m learning to make it trustworthy with small tasks, tests first and real review. Speaks Khmer and English, learning Chinese. Off hours: gym.">
+
+<p align="center">say hi: <a href="https://bunhourdev.vercel.app">bunhourdev.vercel.app</a> · old cybersec days: <a href="https://github.com/BunhourLong/retr0">retr0</a></p>
+
+<details>
+<summary><b>The longer version</b></summary>
+
 **សួស្តី means hello 👋**
 
 I'm Bunhour, a Computer Science student in Phnom Penh 🇰🇭, doing a dual degree at AUPP and Fort Hays State University, plus the full-stack track at DICHI Academy's Techpreneur Bootcamp. I like going past what school covers: exploring, researching and building things on my own.
@@ -14,7 +23,7 @@ Most of my projects start as "I wish this existed for me": a tuk-tuk dispatch ap
 
 **Off the keyboard.** The gym is my main thing, and I post my training on TikTok. I speak Khmer and English, and I'm learning Chinese an hour a day.
 
-**Say hi.** Wherever's easiest, or through [bunhourdev.vercel.app](https://bunhourdev.vercel.app).
+</details>
 
 <img src="assets/section-ai.svg" width="100%" alt="Ai Engineering">
 
