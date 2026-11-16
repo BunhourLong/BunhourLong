@@ -1,6 +1,6 @@
-<a href="https://github.com/BunhourLong"><img src="assets/hero.svg" width="100%" alt="សួស្តី (hello). Bunhour Long: AI engineer and full-stack developer building agent skills and testing local models."></a>
+<a href="https://github.com/BunhourLong"><img src="assets/hero.svg" width="100%" alt="សួស្តី (hello). Bunhour Long: full-stack developer learning AI engineering: building agent skills and testing local models."></a>
 
-<p align="center">សួស្តី means hello. I'm an AI engineer with a full-stack background: I write agent skills, test local models, and build the apps around them.</p>
+<p align="center">សួស្តី means hello. I'm a full-stack developer learning AI engineering: I build apps, write agent skills, and test local models.</p>
 
 <img src="assets/section-ai.svg" width="100%" alt="Ai Engineering">
 
