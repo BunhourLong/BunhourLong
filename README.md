@@ -54,7 +54,7 @@ Most of my projects start as "I wish this existed for me": a tuk-tuk dispatch ap
 <a href="https://github.com/BunhourLong/Sras"><img src="assets/card-sras.svg" width="49%" alt="Sras (in progress): A JSON document store on an append-only, Bitcask-style engine."></a>
 </p>
 
-<img src="assets/stack.svg" width="100%" alt="Stack. ai: agent skills, Claude Code, Codex, OpenCode, Ollama; languages: Python, TypeScript, Rust, Go, Swift; full-stack: React, React Native, NestJS, FastAPI, MongoDB, Redis, Postgres">
+<img src="assets/stack.svg" width="100%" alt="Stack. ai: agent skills, Claude Code, Codex, OpenCode, Ollama; languages: Python, TypeScript, Rust, Go, Swift; full-stack: React, React Native, NestJS, FastAPI, Firestore, Redis, Postgres">
 
 <details>
 <summary><b>Side quests</b></summary>
